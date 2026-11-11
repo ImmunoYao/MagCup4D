@@ -1,0 +1,6 @@
+Part,Description,Material,Specification,Quantity,Note
+Inside,3D printed inner liner,PETG,MagCup 4D_Inside.stl,1 installed + 1 optional spare,Four open-sided magnet channels
+Outside,3D printed integrated outer cup and base,PETG,MagCup 4D_Outside.stl,1,Cup and support feet are one printed part
+Steel yoke,Ferromagnetic galvanized square tube,Galvanized steel,40 x 40 x 4 mm / length 30 mm,1,Prototype internal opening measured 32.0 mm; verify supplier dimensions
+Block magnet,NdFeB permanent magnet,N52,30 x 10 x 10 mm / magnetized through 10 mm thickness,4,Four inward-facing surfaces alternate N/S/N/S
+Tube,Microcentrifuge tube,Polypropylene,1.5 or 2 mL,As required,Verify actual tube dimensions
