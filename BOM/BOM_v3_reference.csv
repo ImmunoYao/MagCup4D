@@ -1,0 +1,6 @@
+version,part_id,part_name_english,part_name_chinese,material_or_grade,v3_specification,qty_in_v3_device,source_note,status_for_v4
+v3,1,Square steel tube yoke,镀锌导磁方管,Galvanized ferromagnetic steel,40 x 40 x 4 mm section; 30 mm length; prototype internal opening measured 32.0 mm,1,v3 archive Section 3.2,NOT VERIFIED
+v3,2,NdFeB permanent magnet,钕铁硼磁铁,N52,30 x 10 x 10 mm; magnetized through 10 mm thickness; inward poles alternating,4,v3 archive Sections 3.2 and 4.2,NOT VERIFIED
+v3,3,Printed inner liner,打印内衬,PETG,Historical model liner_v3.stl; one unit plus optional spare,1,v3 archive Section 3.2; STL NOT INCLUDED,NOT VERIFIED
+v3,4,Printed outer cup and base,一体杯及底座,PETG,Historical model cup_v3.stl,1,v3 archive Section 3.2; STL NOT INCLUDED,NOT VERIFIED
+v3,5,Microcentrifuge tube,离心管,Polypropylene,1.5 mL or 2 mL; check physical fit,1,v3 archive Section 3.2; assay consumable,NOT VERIFIED
